@@ -7,9 +7,13 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![GitHub](/Resources/Theater_Outcomes_vs_Launch.png)
+
+![Outcomes vs. Launch Date](/Resources/Theater_Outcomes_vs_Launch.png)
+---The graph above, which analyzes the success and failure of Theater based kickstarter campaigns, indicates that there is an advantage to when during the year a campaign is launched. 
 ### Analysis of Outcomes Based on Goals
-![GitHub](/Resources/Outcomes_vs_Goals.png)
+
+![Outcomes vs. Goal](/Resources/Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered
 
 ## Results
