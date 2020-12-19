@@ -9,7 +9,7 @@
 ### Analysis of Outcomes Based on Launch Date
 ![GitHub](/Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-
+![GitHub](/Resources/Outcomes_vs_Goal.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
