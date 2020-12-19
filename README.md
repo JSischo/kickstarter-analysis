@@ -7,7 +7,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+![GitHub Logo](/Resources/Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
