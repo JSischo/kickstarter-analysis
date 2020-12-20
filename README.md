@@ -31,7 +31,7 @@ Analysis of Kisckstarter funding campaign with the following focus/criteria:
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-  - There seems to be an increased chance of a successful Theater campaign when it is launched in late spring or early summer. Specifically May, June and July. On the flip side, December does seem to be the worst time to start a campign if you would like it to be successful. My hypothesis here is that in December, people tend to be a little tighter with their cash as they are buying gifts for others and possibly tend to be a little tighter with their money. 
+  - There seems to be an increased chance of a successful Theater campaign when it is launched in late spring or early summer. Specifically May, June and July. On the flip side, December does seem to be the worst time to start a campign if you would like it to be successful. My hypothesis here is that in December, people tend to be a little tighter with their cash as they are buying gifts for others during the holiday season. 
   - There does not seem to be a specific time of year correlation between failed campaigns and when they were launched. The trend line seems to be somewhat flat through the entirety of the year. There may be other factors to look at to help determine what variables are correlated with failed campaigns. 
 
 - What can you conclude about the Outcomes based on Goals?
@@ -41,8 +41,8 @@ Analysis of Kisckstarter funding campaign with the following focus/criteria:
   - One main limitation is that the n count for campaigns that had a higher goal amount is very low. Only 42 campaigns had a goal of >$25,000 (4% of total campaigns), so it is hard to formulate strong conclusions for the higher goal campaigns.
 
 - What are some other possible tables and/or graphs that we could create?
-- Other tables/graphs that might give us further insight into what may be correlated with S/F campaigns:
-  1. Percentage funded. We could created new "Successful" benchmark based on how close a campaign was to reaching it's goal.
-  2. Number of backers per campaign. Was success related to # of donors?
-  3. Avg. donations. Did the successful campaigns have a higher avg./backer?
-  4. Re-run current analysis with a Country filter specific to the country that Louise plans to launch her play.
+  - Other tables/graphs that might give us further insight into what may be correlated with S/F campaigns:
+   1. Percentage funded. We could created new "Successful" benchmark based on how close a campaign was to reaching it's goal.
+   2. Number of backers per campaign. Was success related to # of donors?
+   3. Avg. donations. Did the successful campaigns have a higher avg./backer?
+   4. Re-run current analysis with a Country filter specific to the country that Louise plans to launch her play.
