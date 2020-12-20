@@ -31,8 +31,8 @@ Analysis of Kisckstarter funding campaign with the following focus/criteria:
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-  - There seems to be an increased chance of a successful Theater campaign when it is launched in late spring or early summer. Specifically May, June and July.
-  - There does not seem to be a specific time of year correlation between failed campaings and when they were launched. The trend lined seems to be somewhat flat through the entirety of the year. There may be other factors to look at to help determine what variables are correlated with failed campaigns. 
+  - There seems to be an increased chance of a successful Theater campaign when it is launched in late spring or early summer. Specifically May, June and July. On the flip side, December does seem to be the worst time to start a campign if you would like it to be successful. My hypothesis here is that in December, people tend to be a little tighter with their cash as they are buying gifts for others and possibly tend to be a little tighter with their money. 
+  - There does not seem to be a specific time of year correlation between failed campaigns and when they were launched. The trend line seems to be somewhat flat through the entirety of the year. There may be other factors to look at to help determine what variables are correlated with failed campaigns. 
 
 - What can you conclude about the Outcomes based on Goals?
   - The data analysis seems to indicate a bimodal result when looking at successful campaigns based on their funding goals. Campaigns that were seeking < $1000 dollars were the most successful at nearly 80% followed closely be campaigns asking between $35,000 and $44,999.
