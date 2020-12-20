@@ -28,6 +28,8 @@ Analysis of Kisckstarter funding campaign with the following focus/criteria:
 
 ### Challenges and Difficulties Encountered
 
+The only difficulty that I encountered during this challenge was that pivot tables are a new Excel concept to me, so it did take some practice and playing around with the functionality to achieve a level of confidence with creating the appropriate tables and associated charts. 
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
@@ -41,7 +43,9 @@ Analysis of Kisckstarter funding campaign with the following focus/criteria:
   - One main limitation is that the n count for campaigns that had a higher goal amount is very low. Only 42 campaigns had a goal of >$25,000 (4% of total campaigns), so it is hard to formulate strong conclusions for the higher goal campaigns.
 
 - What are some other possible tables and/or graphs that we could create?
+
   - Other tables/graphs that might give us further insight into what may be correlated with S/F campaigns:
+  
    1. Percentage funded. We could created new "Successful" benchmark based on how close a campaign was to reaching it's goal.
    2. Number of backers per campaign. Was success related to # of donors?
    3. Avg. donations. Did the successful campaigns have a higher avg./backer?
