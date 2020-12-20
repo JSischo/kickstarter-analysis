@@ -41,6 +41,7 @@ The only difficulty that I encountered during this challenge was that pivot tabl
 
 - What are some limitations of this dataset?
   - One main limitation is that the n count for campaigns that had a higher goal amount is very low. Only 42 campaigns had a goal of >$25,000 (4% of total campaigns), so it is hard to formulate strong conclusions for the higher goal campaigns.
+  - Another limitation is that the "Theater" filter includes some very high value goals, many of which were unsuccessful, because they were campaigns looking to build physical structures and NOT simply to be able to support an isolated production. We should probably filter these out to strengthen our analysis.
 
 - What are some other possible tables and/or graphs that we could create?
 
