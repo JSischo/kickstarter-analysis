@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-Analysis of Kisckstarter funding campaign with the following focus/criteria:
+An Analysis of Kickstarter funding campaigns with the following focus/criteria:
 - Filtered for "Theater" campaigns
 - Outcomes based on "Launch date" and "Funding Goal"
 
