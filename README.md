@@ -18,7 +18,7 @@ An Analysis of Kickstarter funding campaigns with the following focus/criteria:
 
 ![Outcomes vs. Launch Date](/Resources/Theater_Outcomes_vs_Launch.png)
 
-> The graph above, which analyzes the success and failure of Theater based kickstarter campaigns and when during the year the campaign is launched. The results do seem to indicate that there is an advantage to achieving a successful campaign based on when during the year is is launched. 
+> The graph above, which analyzes the success and failure of Theater based kickstarter campaigns and when during the year the campaign is launched. The results do seem to indicate that there is an advantage to achieving a successful campaign based on when during the year the campaign is launched. 
 
 ### Analysis of Outcomes Based on Goals
 
