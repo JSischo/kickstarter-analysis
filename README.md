@@ -8,7 +8,7 @@ Analysis of Kisckstarter funding campaign with the following focus/criteria:
 
 ### Purpose
 
-  The purpose of this endeavor was to assist our client, Louise, to determine if there seemed to be any correlation between successful/unsuccesful Kickstarter campaigns in the **Theater** category. We looked at two outcomes per her request: Campaign ***Launch date*** and ***funding goal***.
+  The purpose of this endeavor was to assist our client, Louise, to determine if there seemed to be any correlation between successful(S)/failed(F) Kickstarter campaigns in the **Theater** category. We looked at two outcomes per her request: Campaign ***Launch date*** and ***funding goal***.
   
   Louise will use this information to help guide her in planning a funding campaign for her play *Fever*.
 
